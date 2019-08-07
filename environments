@@ -1,0 +1,12 @@
+#! /bin/bash
+
+function training_env()
+{
+source /home/data/cis/training-week-2019/training_environment.sh
+}
+
+function leave_env()
+{
+source deactivate
+unset project_name
+}
