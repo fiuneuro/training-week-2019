@@ -1,6 +1,11 @@
 # training-week-2019
 Materials for the 2019 incoming student training week.
 
+## Before the Bootcamp
+Make sure you complete the FIU Neuro [Onboarding](https://github.com/FIU-Neuro/Onboarding)!
+
+We also recommend that you at least start learning some programming with [Codecademy](https://www.codecademy.com). The free courses "Learn the Command Line", "Learn Python 2" (although we use Python 3), and "Learn git" are all extremely useful. 
+
 ## Schedule
 
 ### Thursday, August 15: Introduction and Resources
