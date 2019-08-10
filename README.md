@@ -59,4 +59,3 @@ Materials for the 2019 incoming student training week.
 | 13:30 | git/GitHub, continued                    | Katherine Bottenhorn |  |
 | 14:30 | Overflow Time/General Q&A                |                      |  |
 | 15:30 | Closing Comments                         | Dr. Angela Laird     |  |
-| 13:30 | Breakout Session: ID Conn          | Katherine Bottenhorn |  |
