@@ -29,7 +29,7 @@ We also recommend that you at least start learning some programming with [Codeca
 | 11:30 | Basic Python                             | Amanda Renfro        |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | Working with Python Packages             | Amanda Renfro        |
-| 14:30 | Working with Neuroimaging Data in Python | Taylor Salo          |
+| 14:30 | Data Visualization                       | Katherine Bottenhorn |
 | 15:30 | Overflow Time/Programming Practice       |                      |
 
 ### Monday, August 19: MRI and Preprocessing
@@ -39,11 +39,10 @@ We also recommend that you at least start learning some programming with [Codeca
 | 09:30 | MRI Physics                              | Dr. Robert Laird     |
 | 10:00 | MRI Data Types                           | Dr. Angela Laird     |
 | 10:30 | BIDS                                     | Dr. Michael Riedel   |
-| 11:30 | fMRI Preprocessing                       | Dr. Aaron Mattfeld   |
+| 11:30 | Working with Neuroimaging Data in Python | Taylor Salo          |
 | 12:30 | Lunch Break                              |                      |
-| 13:30 | fMRI Preprocessing, continued            | Dr. Aaron Mattfeld   |
-| 14:30 | Data Quality Control                     | Dr. Michael Riedel   |
-| 15:30 | Data Visualization                       | Katherine Bottenhorn |
+| 13:30 | fMRI Preprocessing                       | Dr. Aaron Mattfeld   |
+| 15:30 | Data Quality Control                     | Dr. Michael Riedel   |
 
 ### Wednesday, August 21: Analysis
 
