@@ -39,11 +39,10 @@ We also recommend that you at least start learning some programming with [Codeca
 | 09:30 | MRI Physics                              | Dr. Robert Laird     |
 | 10:00 | MRI Data Types                           | Dr. Angela Laird     |
 | 10:30 | BIDS                                     | Dr. Michael Riedel   |
-| 11:30 | fMRI Preprocessing                       | Dr. Aaron Mattfeld   |
+| 11:30 | Working with Neuroimaging Data in Python | Taylor Salo          |
 | 12:30 | Lunch Break                              |                      |
-| 13:30 | fMRI Preprocessing, continued            | Dr. Aaron Mattfeld   |
-| 14:30 | Data Quality Control                     | Dr. Michael Riedel   |
-| 15:30 | Basics of Docker/Singularity             | Adam Kimbler         |
+| 13:30 | fMRI Preprocessing                       | Dr. Aaron Mattfeld   |
+| 15:30 | Data Quality Control                     | Dr. Michael Riedel   |
 
 ### Wednesday, August 21: Analysis
 
@@ -58,7 +57,7 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
-| 09:30 | Working with Neuroimaging Data in Python | Taylor Salo          |
+| 09:30 | Basics of Docker/Singularity             | Adam Kimbler         |
 | 10:30 | git/GitHub                               | Katherine Bottenhorn |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | git/GitHub, continued                    | Katherine Bottenhorn |
