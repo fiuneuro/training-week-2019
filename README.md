@@ -1,5 +1,5 @@
 # training-week-2019
-Materials for the 2019 incoming student training week.
+Materials for the 2019 incoming student training week. [Trello](https://trello.com/b/NPEMmLRA/training). [Slack](https://fiuneuro.slack.com/messages/CKWKRCG23).
 
 ## Before the Bootcamp
 Make sure you complete the FIU Neuro [Onboarding](https://github.com/FIU-Neuro/Onboarding)!
