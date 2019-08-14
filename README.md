@@ -15,8 +15,8 @@ We also recommend that you at least start learning some programming with [Codeca
 | 09:30 | Welcome and Overview                     | Dr. Angela Laird                     |
 | 10:30 | [Dependencies](https://github.com/FIU-Neuro/training-week-2019/wiki/Dependencies) | Taylor Salo                          |
 | 12:30 | Lunch Break                              |                                      |
-| 13:30 | Open Science                             | Dr. Angela Laird                     |
-| 14:30 | FAIR Principles                          | Dr. Angela Laird                     |
+| 13:30 | [Open Science](https://drive.google.com/open?id=11jWfiGQD0xVnNjlJB94w24IVveVvZwlK) | Dr. Angela Laird                     |
+| 14:30 | [FAIR Principles](https://drive.google.com/open?id=1sQwgHsB14xstRNKh4qS50fLTVPI1tod3) | Dr. Angela Laird                     |
 | 15:30 | Program Resources                        | Drs. Anthony Dick and Aaron Mattfeld |
 | 16:00 | Community Resources                      | Taylor Salo                          |
 
