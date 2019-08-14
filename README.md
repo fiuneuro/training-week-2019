@@ -1,5 +1,5 @@
 # training-week-2019
-Materials for the 2019 incoming student training week.
+Materials for the 2019 incoming student training week. [Trello](https://trello.com/b/NPEMmLRA/training). [Slack](https://fiuneuro.slack.com/messages/CKWKRCG23).
 
 ## Before the Bootcamp
 Make sure you complete the FIU Neuro [Onboarding](https://github.com/FIU-Neuro/Onboarding)!
@@ -15,8 +15,8 @@ We also recommend that you at least start learning some programming with [Codeca
 | 09:30 | Welcome and Overview                     | Dr. Angela Laird                     |
 | 10:30 | [Dependencies](https://github.com/FIU-Neuro/training-week-2019/wiki/Dependencies) | Taylor Salo                          |
 | 12:30 | Lunch Break                              |                                      |
-| 13:30 | FAIR Principles                          | Dr. Angela Laird                     |
-| 14:30 | Open Science                             | Dr. Angela Laird                     |
+| 13:30 | Open Science                             | Dr. Angela Laird                     |
+| 14:30 | FAIR Principles                          | Dr. Angela Laird                     |
 | 15:30 | Program Resources                        | Drs. Anthony Dick and Aaron Mattfeld |
 | 16:00 | Community Resources                      | Taylor Salo                          |
 
