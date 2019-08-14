@@ -58,7 +58,7 @@ We also recommend that you at least start learning some programming with [Codeca
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
 | 09:30 | Basics of Docker/Singularity             | Adam Kimbler         |
-| 10:30 | git/GitHub                               | Katherine Bottenhorn |
+| 10:30 | [git/GitHub](https://github.com/62442katieb/git-course) | Katherine Bottenhorn |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | git/GitHub, continued                    | Katherine Bottenhorn |
 | 14:30 | Overflow Time/General Q&A                |                      |
