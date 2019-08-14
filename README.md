@@ -15,10 +15,10 @@ We also recommend that you at least start learning some programming with [Codeca
 | 09:30 | Welcome and Overview                     | Dr. Angela Laird                     |
 | 10:30 | [Dependencies](https://github.com/FIU-Neuro/training-week-2019/wiki/Dependencies) | Taylor Salo                          |
 | 12:30 | Lunch Break                              |                                      |
-| 13:30 | Open Science                             | Dr. Angela Laird                     |
-| 14:30 | FAIR Principles                          | Dr. Angela Laird                     |
+| 13:30 | [Open Science](https://drive.google.com/open?id=11jWfiGQD0xVnNjlJB94w24IVveVvZwlK) | Dr. Angela Laird                     |
+| 14:30 | [FAIR Principles](https://drive.google.com/open?id=1sQwgHsB14xstRNKh4qS50fLTVPI1tod3) | Dr. Angela Laird                     |
 | 15:30 | Program Resources                        | Drs. Anthony Dick and Aaron Mattfeld |
-| 16:00 | Community Resources                      | Taylor Salo                          |
+| 16:00 | [Community Resources](https://drive.google.com/open?id=1KuNr77YYJTOYuLER-EhdQqu0exNmLKFr) | Taylor Salo                          |
 
 ### Friday, August 16: Introduction to Programming
 
@@ -29,7 +29,7 @@ We also recommend that you at least start learning some programming with [Codeca
 | 11:30 | Basic Python                             | Amanda Renfro        |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | Working with Python Packages             | Amanda Renfro        |
-| 14:30 | Data Visualization                       | Katherine Bottenhorn |
+| 14:30 | [Data Visualization](https://github.com/62442katieb/NH19-Visualization) | Katherine Bottenhorn |
 | 15:30 | Overflow Time/Programming Practice       |                      |
 
 ### Monday, August 19: MRI and Preprocessing
@@ -39,7 +39,7 @@ We also recommend that you at least start learning some programming with [Codeca
 | 09:30 | MRI Physics                              | Dr. Robert Laird     |
 | 10:00 | MRI Data Types                           | Dr. Angela Laird     |
 | 10:30 | BIDS                                     | Dr. Michael Riedel   |
-| 11:30 | Working with Neuroimaging Data in Python | Taylor Salo          |
+| 11:30 | [Working with Neuroimaging Data in Python](https://github.com/FIU-Neuro/training-week-2019/blob/master/day3/neuroimaging_in_python.ipynb) | Taylor Salo          |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | fMRI Preprocessing                       | Dr. Aaron Mattfeld   |
 | 15:30 | Data Quality Control                     | Dr. Michael Riedel   |
