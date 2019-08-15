@@ -12,7 +12,7 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)                        |
 |:------|:-----------------------------------------|:-------------------------------------|
-| 09:30 | Welcome and Overview                     | Dr. Angela Laird                     |
+| 09:30 | [Welcome and Overview](https://drive.google.com/open?id=1w0EjkMyxkOcW3mhrIZFgzPzid2vbKO01) | Dr. Angela Laird                     |
 | 10:30 | [Dependencies](https://github.com/FIU-Neuro/training-week-2019/wiki/Dependencies) | Taylor Salo                          |
 | 12:30 | Lunch Break                              |                                      |
 | 13:30 | [Open Science](https://drive.google.com/open?id=11jWfiGQD0xVnNjlJB94w24IVveVvZwlK) | Dr. Angela Laird                     |
