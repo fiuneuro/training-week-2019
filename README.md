@@ -26,9 +26,9 @@ We also recommend that you at least start learning some programming with [Codeca
 |:------|:-----------------------------------------|:---------------------|
 | 09:30 | [Basic Command Line](https://github.com/mriedel56/training-week-2019-day2) | Dr. Michael Riedel   |
 | 10:30 | [Basics of HPC/SLURM](https://github.com/mriedel56/training-week-2019-day2) | Dr. Michael Riedel   |
-| 11:30 | Basic Python                             | Amanda Renfro        |
+| 11:30 | [Basic Python](https://github.com/FIU-Neuro/training-week-2019-coding) | Amanda Renfro        |
 | 12:30 | Lunch Break                              |                      |
-| 13:30 | Working with Python Packages             | Amanda Renfro        |
+| 13:30 | [Working with Python Packages](https://github.com/FIU-Neuro/training-week-2019-coding) | Amanda Renfro        |
 | 14:30 | [Data Visualization](https://github.com/62442katieb/NH19-Visualization) | Katherine Bottenhorn |
 | 15:30 | Overflow Time/Programming Practice       |                      |
 
