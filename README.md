@@ -24,8 +24,8 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
-| 09:30 | Basic Command Line                       | Dr. Michael Riedel   |
-| 10:30 | Basics of HPC/SLURM                      | Dr. Michael Riedel   |
+| 09:30 | [Basic Command Line](https://github.com/mriedel56/training-week-2019-day2) | Dr. Michael Riedel   |
+| 10:30 | [Basics of HPC/SLURM](https://github.com/mriedel56/training-week-2019-day2) | Dr. Michael Riedel   |
 | 11:30 | Basic Python                             | Amanda Renfro        |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | Working with Python Packages             | Amanda Renfro        |
