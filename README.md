@@ -1,6 +1,11 @@
 # training-week-2019
 Materials for the 2019 incoming student training week. [Trello](https://trello.com/b/NPEMmLRA/training). [Slack](https://fiuneuro.slack.com/messages/CKWKRCG23).
 
+Primary location: PG6 112
+
+Breakout session location: AHC4 
+
+
 ## Before the Bootcamp
 Make sure you complete the FIU Neuro [Onboarding](https://github.com/FIU-Neuro/Onboarding)!
 
