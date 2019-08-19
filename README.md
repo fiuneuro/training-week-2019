@@ -47,7 +47,7 @@ We also recommend that you at least start learning some programming with [Codeca
 | 11:30 | [Working with Neuroimaging Data in Python](https://github.com/FIU-Neuro/training-week-2019/blob/master/neuroimaging_in_python.ipynb) | Taylor Salo          |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | [fMRI Preprocessing](https://github.com/adamkimbler/fiu_bootcamp_preproc) | Adam Kimbler   |
-| 15:30 | Data Quality Control                     | Dr. Michael Riedel   |
+| 15:30 | [Data Quality Control](https://drive.google.com/file/d/1xeGwi9sf0Il5rNVahOMnMZ5n82gAVCfp) | Dr. Michael Riedel   |
 
 ### Wednesday, August 21: Analysis
 
