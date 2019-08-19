@@ -41,8 +41,8 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
-| 09:30 | MRI Physics                              | Dr. Robert Laird     |
-| 10:00 | MRI Data Types                           | Dr. Angela Laird     |
+| 09:30 | [MRI Physics](https://drive.google.com/open?id=1ODSbvZa_P4ONiObg5ES9FG8FlyDkFVmz) | Dr. Robert Laird     |
+| 10:00 | [MRI Data Types](https://drive.google.com/open?id=12HLiEw0mvDsiACR2EIDaxIJndWbRVO62) | Dr. Angela Laird     |
 | 10:30 | [BIDS](https://drive.google.com/open?id=1pp_FnI3vBkVPtzk1nb6p4A3y88csLHyn) | Dr. Michael Riedel   |
 | 11:30 | [Working with Neuroimaging Data in Python](https://github.com/FIU-Neuro/training-week-2019/blob/master/neuroimaging_in_python.ipynb) | Taylor Salo          |
 | 12:30 | Lunch Break                              |                      |
