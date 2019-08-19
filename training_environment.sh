@@ -3,7 +3,7 @@
 # Environment for 2019 training week
 # Set up Nipype, FSL, AFNI, Freesurfer, ANTS, MATLAB
 module add miniconda/2.7
-module add fsl/5.0.7
+module add fsl/5.0.11
 module load ANTs/1.9.4
 module add freesurfer
 module add matlab/2013b/front
