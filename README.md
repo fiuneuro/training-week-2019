@@ -1,6 +1,11 @@
 # training-week-2019
 Materials for the 2019 incoming student training week. [Trello](https://trello.com/b/NPEMmLRA/training). [Slack](https://fiuneuro.slack.com/messages/CKWKRCG23).
 
+Primary location: PG6 112
+
+Breakout session location: AHC4 
+
+
 ## Before the Bootcamp
 Make sure you complete the FIU Neuro [Onboarding](https://github.com/FIU-Neuro/Onboarding)!
 
@@ -12,7 +17,7 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)                        |
 |:------|:-----------------------------------------|:-------------------------------------|
-| 09:30 | Welcome and Overview                     | Dr. Angela Laird                     |
+| 09:30 | [Welcome and Overview](https://drive.google.com/open?id=1w0EjkMyxkOcW3mhrIZFgzPzid2vbKO01) | Dr. Angela Laird                     |
 | 10:30 | [Dependencies](https://github.com/FIU-Neuro/training-week-2019/wiki/Dependencies) | Taylor Salo                          |
 | 12:30 | Lunch Break                              |                                      |
 | 13:30 | [Open Science](https://drive.google.com/open?id=11jWfiGQD0xVnNjlJB94w24IVveVvZwlK) | Dr. Angela Laird                     |
@@ -24,11 +29,11 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
-| 09:30 | Basic Command Line                       | Dr. Michael Riedel   |
-| 10:30 | Basics of HPC/SLURM                      | Dr. Michael Riedel   |
-| 11:30 | Basic Python                             | Amanda Renfro        |
+| 09:30 | [Basic Command Line](https://github.com/mriedel56/training-week-2019-day2) | Dr. Michael Riedel   |
+| 10:30 | [Basics of HPC/SLURM](https://github.com/mriedel56/training-week-2019-day2) | Dr. Michael Riedel   |
+| 11:30 | [Basic Python](https://github.com/FIU-Neuro/training-week-2019-coding) | Amanda Renfro        |
 | 12:30 | Lunch Break                              |                      |
-| 13:30 | Working with Python Packages             | Amanda Renfro        |
+| 13:30 | [Working with Python Packages](https://github.com/FIU-Neuro/training-week-2019-coding) | Amanda Renfro        |
 | 14:30 | [Data Visualization](https://github.com/62442katieb/NH19-Visualization) | Katherine Bottenhorn |
 | 15:30 | Overflow Time/Programming Practice       |                      |
 
@@ -36,13 +41,13 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
-| 09:30 | MRI Physics                              | Dr. Robert Laird     |
-| 10:00 | MRI Data Types                           | Dr. Angela Laird     |
-| 10:30 | BIDS                                     | Dr. Michael Riedel   |
+| 09:30 | [MRI Physics](https://drive.google.com/open?id=1ODSbvZa_P4ONiObg5ES9FG8FlyDkFVmz) | Dr. Robert Laird     |
+| 10:00 | [MRI Data Types](https://drive.google.com/open?id=12HLiEw0mvDsiACR2EIDaxIJndWbRVO62) | Dr. Angela Laird     |
+| 10:30 | [BIDS](https://drive.google.com/open?id=1pp_FnI3vBkVPtzk1nb6p4A3y88csLHyn) | Dr. Michael Riedel   |
 | 11:30 | [Working with Neuroimaging Data in Python](https://github.com/FIU-Neuro/training-week-2019/blob/master/neuroimaging_in_python.ipynb) | Taylor Salo          |
 | 12:30 | Lunch Break                              |                      |
-| 13:30 | fMRI Preprocessing                       | Dr. Aaron Mattfeld   |
-| 15:30 | Data Quality Control                     | Dr. Michael Riedel   |
+| 13:30 | [fMRI Preprocessing](https://github.com/adamkimbler/fiu_bootcamp_preproc) | Adam Kimbler   |
+| 15:30 | [Data Quality Control](https://drive.google.com/file/d/1xeGwi9sf0Il5rNVahOMnMZ5n82gAVCfp) | Dr. Michael Riedel   |
 
 ### Wednesday, August 21: Analysis
 
