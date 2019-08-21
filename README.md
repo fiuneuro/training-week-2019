@@ -3,7 +3,7 @@ Materials for the 2019 incoming student training week. [Trello](https://trello.c
 
 Primary location: PG6 112
 
-Breakout session location: AHC4 
+Breakout session location: AHC4 202
 
 
 ## Before the Bootcamp
