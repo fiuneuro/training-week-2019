@@ -53,7 +53,7 @@ We also recommend that you at least start learning some programming with [Codeca
 
 | Time  | Title                                    | Instructor(s)        |
 |:------|:-----------------------------------------|:---------------------|
-| 09:30 | fMRI Modeling and GLMs                   | Dr. Jessica Bartley  |
+| 09:30 | [fMRI Modeling and GLMs](https://drive.google.com/file/d/1ovYfwizGhD1GGrDGghC8jKTOgN31zIDz/view?usp=sharing) | Dr. Jessica Bartley  |
 | 12:30 | Lunch Break                              |                      |
 | 13:30 | Structural MRI Analysis                  | Dr. Anthony Dick     |
 | 13:30 | Breakout Session: ID Conn                | Katherine Bottenhorn |
